@@ -11,6 +11,8 @@
 
 <body>
 
+<py-script>
+  
 import urllib
 import re
 from bs4 import BeautifulSoup
@@ -49,7 +51,7 @@ if fannie:
 print("Sensor 3 has reached humidity greater than 10");
 
 
-
+</py-script>
 </body>
 
 </html>
