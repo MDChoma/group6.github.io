@@ -2,11 +2,7 @@
 
 <html><head><title>ThingSpeak Embedded Plot</title></head>
 <body>
-<h1>Group Members</h1>
-<p>Choma MD 218021700</p>
-<p>Letsoisa LGB 218034398</p>
-<p>Makhura KF 218000698</p>
-<p>Phasha SR 216058753</p>
+
 <table border=2 bordercolor="#ff0000 #00ff00 #0000ff">
 <tr><td colspan="2">
 <h1 align="center" color="#00FFFF">Temperature & Humidity Data</h1>
