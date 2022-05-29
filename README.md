@@ -11,7 +11,7 @@
 
 <body>
 
-<py-script src=">
+<py-script src="/Sensor3.py">
 
 </py-script>
 </body>
